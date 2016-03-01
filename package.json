@@ -1,17 +1,14 @@
 {
-  "name": "hexo-renderer-twig",
-  "description": "Twig renderer plugin for Hexo",
+  "name": "hexo-renderer-rst",
+  "description": "RestructuredText renderer plugin for Hexo",
   "version": "0.0.1",
   "main": "index",
-  "repository": "tristanlins/hexo-renderer-twig",
+  "repository": "tristanlins/hexo-renderer-rst",
   "keywords": [
     "hexo",
-    "twig",
+    "rst",
     "renderer"
   ],
   "author": "Tristan Lins <tristan@lins.io> (https://tristan.lins.io)",
-  "license": "MIT",
-  "dependencies": {
-    "twig": "^0.8.8"
-  }
+  "license": "MIT"
 }
